@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Android Wiimote for Dolphin</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Wiimote</string>
+    <string name="address">Dolphin Address</string>
+    <string name="port">Port</string>
+    <string name="run">Run</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_playing">Playing...</string>
+
+</resources>
